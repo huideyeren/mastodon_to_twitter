@@ -1,0 +1,7 @@
+// 既定の設定とユーザー設定を上書きするには、このファイル内に設定を挿入します
+{
+    "python.pythonPath": "${workspaceRoot}/mas2twi/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "python.linting.mypyEnabled": true
+}
