@@ -112,3 +112,10 @@ ENV/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+# Mastodon cred
+my_clientcred_nico.txt
+my_usercred_nico.txt
+
+# twitter cred
+twitter_cred.py
